@@ -1,0 +1,20 @@
+{
+  "name": "مقاضينا - إدارة مقاضي المنازل الذكية",
+  "short_name": "مقاضينا",
+  "description": "تطبيق إدارة وتجميع وفرز مقاضي المنازل الشهرية والأسبوعية ومقارنة الأسعار عبر D4D",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0d9488",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar-SA",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3737/3737372.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
